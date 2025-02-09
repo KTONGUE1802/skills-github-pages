@@ -1,0 +1,21 @@
+
+body{
+    background-color: #3714b4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header{
+    background-color: #333;
+    color: #c41868;
+    padding-top: 10px;
+    min-height: 70px;
+    border-bottom: 4px solid #f4c842;
+}
